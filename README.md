@@ -14,6 +14,6 @@ My name is Tushar and I'm a Computer Science student from Maharashtra. Here's so
 - 🕸 Blockchain technology.
 - 💻 Artificial Intellegence.
 
-💬 Reach me by email or LinkedIn! patiltushar80@yahoo.com | www.linkedin.com
+💬 Reach me by email! patiltushar80@yahoo.com
 
 <!-- More to come! -->
